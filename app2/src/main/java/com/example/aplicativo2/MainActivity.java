@@ -38,7 +38,7 @@ public class MainActivity extends Activity {
                 data += spinner.getSelectedItem().toString() + "\n";
                 int id = radioGroup.getCheckedRadioButtonId();
                 RadioButton tmp = findViewById(id);
-                data += " primeiro jeito - + " tmp.getText().toString();
+                data += " primeiro jeito - " + tmp.getText().toString();
                 
                 String rd = ((RadioButton)findViewById(radioGroup.getCheckedRadioButtonId())).getText().toString();
 
