@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Aplicativo 2</string>
+    <string name="textWelcome">Hello!</string>
+    <string name="editName">Nome</string>
+    <string name="textCkeck">Assinalado</string>
+    <string name="opt1">Opção 1</string>
+    <string name="opt2">Opção 2</string>
+    <string-array name="listagem">
+        <item>Maça</item>
+        <item>Laranja</item>
+        <item>Limão</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conta do Buteco</string>
+    <string name="textPessoas">Número de Pessoas</string>
+    <string name="editQuantidade">Quantidade</string>
+    <string name="textConta">Conta</string>
+    <string name="editValor">Valor</string>
+</resources>
