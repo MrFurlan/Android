@@ -73,7 +73,6 @@ public class MainActivity extends Activity {
                     time4.setText("JAPÃO");
                 } else {
                     Toast.makeText(MainActivity.this, "GRUPO NÃO FOI SELECIONADO", Toast.LENGTH_LONG).show();
-                    time1.setText("TESTE2");
                 }
             }
         });
